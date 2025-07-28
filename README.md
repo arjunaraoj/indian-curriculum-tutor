@@ -19,9 +19,8 @@ indian-curriculum-tutor/
 └── README.md             # You're reading it now
 ## ✅ Setup Instructions
 ### 1. 🔁 Clone or Download
-git clone https://github.com/your-username/indian-curriculum-tutor.git
+git clone https://github.com/arjunaraoj/indian-curriculum-tutor.git
 cd indian-curriculum-tutor
-Or [download the ZIP version here](sandbox:/mnt/data/indian-curriculum-tutor.zip).
 ### 2. 📦 Install Dependencies
 Make sure you have Python 3.8+ and `pip` installed.
 pip install -r requirements.txt
