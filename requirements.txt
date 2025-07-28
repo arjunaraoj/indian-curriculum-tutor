@@ -1,0 +1,9 @@
+openai
+gradio
+torch
+sentence-transformers==2.7.0
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+python-dotenv
