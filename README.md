@@ -1,3 +1,4 @@
+[iemh101.pdf](https://github.com/user-attachments/files/21468197/iemh101.pdf)
 # 🇮🇳 Indian Curriculum PDF Tutor – Fixed Model Error Version
 
 An AI-powered PDF Q&A Tutor built using Gradio + LangChain + HuggingFace + OpenAI/OpenRouter for Indian school textbooks (English/Hindi). It reads your textbook PDF and answers questions using a local vector store and cloud LLM.
